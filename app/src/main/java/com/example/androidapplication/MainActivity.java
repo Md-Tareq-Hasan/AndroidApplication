@@ -103,6 +103,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         protected void onPostExecute(String s) {
             super.onPostExecute(s);
             transaction_info.setText(s);
+            Log.d("myTag",s);
         }
     }
 }
