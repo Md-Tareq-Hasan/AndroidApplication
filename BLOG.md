@@ -28,6 +28,7 @@ Things to consider while developing apps for foldable devices:
 
 5. Maintaining Perfect Screen Ratios:
    It is imperative to maintain a perfect screen ratio while developing folding devices. Because the screen size is different for folded and unfolded states. In a      folded state, the aspect ratio adjusts for the high long screen size and unfolded state the aspect ratio adjusts for the landscape viewing.
+   
  6.Foldable Testing:
    It is important to test foldable devices in multiple environments like configuration changes, multi-window and multi-resume, resizing and new screen ratios.
 
