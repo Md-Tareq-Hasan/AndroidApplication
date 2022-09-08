@@ -24,6 +24,7 @@
         android:layout_height="wrap_content"
         android:text="Search"
         />
+   
     <TextView
         android:id="@+id/Information"
         android:layout_margin="10dp"

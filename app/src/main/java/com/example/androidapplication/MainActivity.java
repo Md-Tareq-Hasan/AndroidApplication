@@ -1,19 +1,15 @@
 package com.example.androidapplication;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-
-
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
@@ -36,7 +32,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         serach_btn.setOnClickListener(this);
 
     }
-
     @Override
     public void onClick(View v) {
         if (v.getId()==R.id.button){
@@ -59,7 +54,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             String user_nonce;
 
             try {
-                URL url = new URL("https://mocki.io/v1/a6e6e366-f33d-473f-ab6b-b17ef52da885");
+                URL url = new URL("https://mocki.io/v1/4554a6d0-2099-42e3-a630-574918aee68d");
                 httpURLConnection = (HttpURLConnection) url.openConnection();
                 InputStream inputStream = httpURLConnection.getInputStream();
                 bufferedReader = new BufferedReader(new InputStreamReader(inputStream));
@@ -104,13 +99,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             }
             return null;
         }
-
         @Override
         protected void onPostExecute(String s) {
             super.onPostExecute(s);
             transaction_info.setText(s);
-
-
         }
     }
 }
