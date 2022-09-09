@@ -14,7 +14,7 @@ Foldable devices have gained wide consumer acceptance around the world. Accordin
 App development has changed as a result of foldable smartphones. It has given you full access to experiment with new things in order to attract users' interest and deliver a top-notch experience. Because foldable smartphones provide you with a variety of displays to experiment with brand-new concepts, developers have better options to supply customers with something exceptional. Foldable phones will also allow video streaming applications to take benefit of the large screen size in order to play videos on a larger screen. Similarly, calendar applications can display a complete month rather than a week. More capabilities may be added to news and business applications such as emails or reading a document or article to make them more efficient.
 
 ## Things to consider while developing apps for foldable devices:
-1. Building For Both Folded And Unfolded Screen:
+1. **Building For Both Folded And Unfolded Screen:**
    The foldable phone has two states- folded and unfolded. The first will show a cover display, while the second will show the app's main display.
 
 2. **App Continuity:**
