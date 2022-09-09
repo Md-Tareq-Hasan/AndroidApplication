@@ -4,7 +4,7 @@ Mobile phones have changed dramatically over the last few years, from flip phone
 
 Foldable devices have gained wide consumer acceptance around the world. According to IDC (International Data Corporation) statistics, the global foldable mobile phone market is expected to reach 27.6 million units in 2025, with a market value of US$29 billion. I think, when the idea of foldable phones comes to our mind, the Samsung Galaxy Fold series comes first. After all, it was the market's first folding phone. With its generation-to-generation flagship foldable devices, this tech giant always strives to smash the ball out of the park. It is also worth noting that Samsung's flexible screen technology has fundamentally transformed the mobile app development industry. So, with the rapid transformations and changing display technology in foldable devices, it is imperative to pay attention to new opportunities.
 
-## Market Statistics of Foldable Phones:
+## Market statistics of foldable phones:
 1. According to a report, the foldable smartphones and tablets market is projected to witness a growth of 63.2% by 2025.
 2. The foldable smartphone shipment analytics are expected to rise from 1 million in 2019 to 50.1 million units globally by 2022.
 3. In 2017, the global foldable market was valued at $91 million, and this number will be expected to touch $1,549.4 million by the end of 2027.
