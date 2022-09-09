@@ -1,4 +1,4 @@
-Why should we develop our apps for foldable phones?
+# Why should we develop our apps for foldable phones?
 
 Mobile phones have changed dramatically over the last few years, from flip phones to QWERTY business phones to touch screens. However, foldable phones have taken over the industry conversation in the previous two years. Today's flip phones come with screens that actually bend, ensuring excitement and affection for these phones. These screens can be opened to be large and folded to be smaller when not in use.
 
