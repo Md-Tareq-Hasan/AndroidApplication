@@ -17,19 +17,19 @@ App development has changed as a result of foldable smartphones. It has given yo
 1. Building For Both Folded And Unfolded Screen:
    The foldable phone has two states- folded and unfolded. The first will show a cover display, while the second will show the app's main display.
 
-2. App Continuity:
+2. **App Continuity:**
    It is important to check if the screen provides a smooth, continuous, and consistent user experience in both folded and unfolded modes while developing the apps.    Developers must focus on resizing the on-screen content.
 
-3. Multitasking For Multiple Windows:
+3. **Multitasking For Multiple Windows:**
    Users can get various advantages by using foldable devices. Widescreen foldable phones have a lot of potential for multitasking. Presenting the multiple layers      of information and performing multiple tasks can be done whether the available window is folded or the space available is in an unfolded state.
 
-4. Running Several Apps Across Multiple Windows:
+4. **Running Several Apps Across Multiple Windows:**
    We already know that two apps can be run side by side. So it is imperative to have multiple apps running side by side especially when the phone is expanded to      its larger size.
 
-5. Maintaining Perfect Screen Ratios:
+5. **Maintaining Perfect Screen Ratios:**
    It is imperative to maintain a perfect screen ratio while developing folding devices. Because the screen size is different for folded and unfolded states. In a      folded state, the aspect ratio adjusts for the high long screen size and unfolded state the aspect ratio adjusts for the landscape viewing.
    
- 6. Foldable Testing:
+ 6. **Foldable Testing:**
    It is important to test foldable devices in multiple environments like configuration changes, multi-window and multi-resume, resizing and new screen ratios.
 
 With the increasing popularity of foldable devices, there is no question that the need for mobile app development for such devices will rise in the future.
