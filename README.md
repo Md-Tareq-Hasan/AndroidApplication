@@ -32,5 +32,5 @@ App development has changed as a result of foldable smartphones. It has given yo
  6. **Foldable Testing:**
    It is important to test foldable devices in multiple environments like configuration changes, multi-window and multi-resume, resizing and new screen ratios.
 
-With the increasing popularity of foldable devices, there is no question that the need for mobile app development for such devices will rise in the future.
-So this is the right time to take benefit from this technology.
+###### With the increasing popularity of foldable devices, there is no question that the need for mobile app development for such devices will rise in the future.
+###### So this is the right time to take benefit from this technology.
