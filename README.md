@@ -27,7 +27,7 @@ App development has changed as a result of foldable smartphones. It has given yo
    We already know that two apps can be run side by side. So it is imperative to have multiple apps running side by side especially when the phone is expanded to      its larger size.
 
 5. **Maintaining Perfect Screen Ratios:**
-   It is imperative to maintain a perfect screen ratio while developing folding devices. Because the screen size is different for folded and unfolded states. In a      folded state, the aspect ratio adjusts for the high long screen size and unfolded state the aspect ratio adjusts for the landscape viewing.
+   It is imperative to maintain a perfect screen ratio while developing apps for folding devices. Because the screen size is different for folded and unfolded states. In a      folded state, the aspect ratio adjusts for the high long screen size and unfolded state the aspect ratio adjusts for the landscape viewing.
    
  6. **Foldable Testing:**
    It is important to test foldable devices in multiple environments like configuration changes, multi-window and multi-resume, resizing and new screen ratios.
